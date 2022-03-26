@@ -1,1 +1,1 @@
-# curryrasul.github.io
+# Magamedrasul Ibragimov
