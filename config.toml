@@ -1,6 +1,6 @@
 base_url = "https://curryrasul.com"      # Domain name of your website
-title = "xxxx"
-description = "xxxx xxxx xxxx"
+title = "curryrasul.com"
+description = "curryrasul's personal page"
 default_language = "en"
 theme = "serene"
 output_dir = "public"
@@ -15,7 +15,7 @@ taxonomies = [{ name = "tags" }, { name = "categories" }]
 highlight_code = true
 extra_syntaxes = []
 highlight_theme = "one-dark"          # Code highlight theme, choose one at https://www.getzola.org/documentation/getting-started/configuration/#syntax-highlighting
-render_emoji = false
+render_emoji = true
 external_links_target_blank = false
 external_links_no_follow = true
 external_links_no_referrer = true
@@ -30,14 +30,14 @@ anchors = "on"
 
 [extra]
 
-name = "xxxx"                         # Your name
-id = "xxxx"                           # Your id / username / handle
-bio = "xxxx"                          # Your bio
+name = "Magamedrasul"                         # Your name
+id = "curryrasul"                           # Your id / username / handle
+bio = "Software engineer at PSE"                          # Your bio
 avatar = "img/avatar.png"            # Your avatar
 links = [                             # Your links
-    { name = "GitHub", icon = "github", url = "https://github.com/<your-username>" },
-    { name = "Twitter", icon = "twitter", url = "https://twitter.com/<your-username>" },
-    { name = "Email", icon = "email", url = "mailto:<your-email-address>" },
+    { name = "GitHub", icon = "github", url = "https://github.com/curryrasul" },
+    { name = "Twitter", icon = "twitter", url = "https://twitter.com/curryrasul" },
+    { name = "Email", icon = "email", url = "mailto:curryrasul@gmail.com" },
 ]
 
 nav_separator = "::"
@@ -55,5 +55,5 @@ outdate_alert_days = 120              # How many days will a post be outdated by
 outdate_alert_text_before = "This article was last updated "
 outdate_alert_text_after = " days ago and may be out of date."
 
-footer_copyright = "© 2023 <your-name>"
+footer_copyright = "© 2023 Magamedrasul Ibragimov"
 footer_credits = true                 # Whether to show "Powered by Zola and Serene" in footer
