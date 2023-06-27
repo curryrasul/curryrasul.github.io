@@ -15,14 +15,7 @@ links = [
 ]
 
 [[project]]
-name = "pmtree"
-desc = "Persistent, sparse and generic Merkle tree in Rust. Inspired by [monotree](https://github.com/thyeem/monotree)."
-links = [
-  { name = "GitHub", url = "https://github.com/Rate-Limiting-Nullifier/pmtree" },
-]
-
-[[project]]
-name = "Voan"
+name = "VoAn"
 desc = "ANonymous VOting platform on NEAR Protocol."
 links = [
   { name = "GitHub", url = "https://github.com/curryrasul/voan" },
@@ -31,8 +24,8 @@ links = [
 ]
 
 [[project]]
-name = "Shamir's Secret Sharing"
-desc = "Shamir's Secret Sharing scheme in Rust | built for learning purposes"
+name = "pmtree"
+desc = "Persistent, sparse and generic Merkle tree in Rust. Inspired by [monotree](https://github.com/thyeem/monotree)."
 links = [
-  { name = "GitHub", url = "https://github.com/curryrasul/shamir-secret" },
+  { name = "GitHub", url = "https://github.com/Rate-Limiting-Nullifier/pmtree" },
 ]
