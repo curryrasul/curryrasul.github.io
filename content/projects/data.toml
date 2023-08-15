@@ -7,11 +7,28 @@ links = [
 ]
 
 [[project]]
+name = "Email Wallet"
+desc = "Non-custodial crypto wallet, which is managed through email. Powered with ZK-Email."
+links = [
+  { name = "GitHub", url = "https://github.com/zkemail/email-wallet/" },
+  { name = "Docs", url = "http://docs.sendeth.org/" },
+  { name = "App", url = "https://sendeth.org/" },
+]
+
+[[project]]
 name = "Vortex"
 desc = "Nouns DAO anonymous voting ⌐◨-◨. Winner of Nouns [Private voting research sprint](https://prop.house/nouns/private-voting-research-sprint)."
 links = [
   { name = "GitHub", url = "https://github.com/mizu-dao/vortex" },
   { name = "Docs", url = "https://mizu-dao.github.io/vortex/" },
+]
+
+[[project]]
+name = "Pixel Roulette"
+desc = "Fully on-chain Battle Royale game."
+links = [
+  { name = "GitHub", url = "https://github.com/curryrasul/pixel-roulette" },
+  { name = "App", url = "https://pixelroulette.xyz/" },
 ]
 
 [[project]]
@@ -28,4 +45,5 @@ name = "pmtree"
 desc = "Persistent, sparse and generic Merkle tree in Rust. Inspired by [monotree](https://github.com/thyeem/monotree)."
 links = [
   { name = "GitHub", url = "https://github.com/Rate-Limiting-Nullifier/pmtree" },
+  { name = "Crates.io", url = "https://crates.io/crates/pmtree" },
 ]
