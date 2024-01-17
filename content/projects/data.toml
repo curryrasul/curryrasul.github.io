@@ -24,14 +24,6 @@ links = [
 ]
 
 [[project]]
-name = "Pixel Roulette"
-desc = "Fully on-chain Battle Royale game."
-links = [
-  { name = "GitHub", url = "https://github.com/curryrasul/pixel-roulette" },
-  { name = "App", url = "https://pixelroulette.xyz/" },
-]
-
-[[project]]
 name = "VoAn"
 desc = "ANonymous VOting platform on NEAR Protocol."
 links = [
