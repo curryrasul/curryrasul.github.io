@@ -22,7 +22,7 @@ links = [
 
 [[project]]
 name = "zkEVM Community Edition"
-desc = "PSE's original Type 1 zkEVM"
+desc = "PSE's Type-1 zkEVM"
 links = [
   { name = "GitHub", url = "https://github.com/privacy-scaling-explorations/zkevm-circuits" },
   { name = "Docs", url = "https://privacy-scaling-explorations.github.io/zkevm-circuits/zkevm_circuits/" },
