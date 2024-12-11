@@ -5,10 +5,7 @@ template = 'home.html'
 lang = 'en'
 +++
 
-Hi! I'm Rasul Ibragimov, I'm interested in cryptography, 
-and software & systems engineering. 
-
-I work as a Software & Cryptography Engineer at Privacy & Scaling Explorations R&D lab of Ethereum Foundation.
+Hi! I'm Rasul Ibragimov, Cryptography Engineer @ Privacy & Scaling Explorations of EF.
 
 This is the web-site, where I want to share my knowledge with you and learn myself
 while writing.
