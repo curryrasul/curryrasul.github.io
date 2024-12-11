@@ -32,7 +32,7 @@ anchors = "on"
 
 name = "Magamedrasul"                         # Your name
 id = "curryrasul"                           # Your id / username / handle
-bio = "Software engineer at PSE"                          # Your bio
+bio = "Cryptography Engineer @ PSE"                          # Your bio
 avatar = "img/avatar.png"            # Your avatar
 links = [                             # Your links
     { name = "GitHub", icon = "github", url = "https://github.com/curryrasul" },
