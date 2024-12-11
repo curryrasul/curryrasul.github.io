@@ -5,10 +5,10 @@ template = 'home.html'
 lang = 'en'
 +++
 
-Hi! I'm Magamedrasul Ibragimov, I'm interested in cryptography, 
-programming languages and engineering in general. 
+Hi! I'm Rasul Ibragimov, I'm interested in cryptography, 
+and software & systems engineering. 
 
-I work at Privacy & Scaling Explorations of Ethereum Foundation as zk-engineer (but I also do a lot of Rust, Solidity and other stuff).
+I work as a Software & Cryptography Engineer at Privacy & Scaling Explorations R&D lab of Ethereum Foundation.
 
 This is the web-site, where I want to share my knowledge with you and learn myself
 while writing.

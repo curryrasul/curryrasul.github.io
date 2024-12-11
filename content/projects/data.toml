@@ -1,18 +1,40 @@
 [[project]]
-name = "RLN"
-desc = "Rate-Limiting Nullifier (or RLN) is a zero-knowledge gadget that enables spam prevention in anonymous environments."
+name = "OPRF-ID"
+desc = "vOPRF based Web3 ID system for Web2 identities ported by zkEmail/TLS"
 links = [
-  { name = "GitHub", url = "https://github.com/Rate-Limiting-Nullifier" },
-  { name = "Docs", url = "https://rate-limiting-nullifier.github.io/rln-docs/" },
+  { name = "GitHub", url = "https://github.com/curryrasul/oprf-id" },
 ]
 
 [[project]]
-name = "Email Wallet"
+name = "gossip"
+desc = "Bot for anon posting in the group chats / Telegram, Discord, etc. powered by zk"
+links = [
+  { name = "GitHub", url = "https://github.com/curryrasul/gossip" },
+]
+
+[[project]]
+name = "Circom-MPC"
+desc = "Set of tools (compiler/frontend and MP-SPDZ backend) for MPC development in Circom."
+links = [
+  { name = "GitHub", url = "https://github.com/namnc/circom-2-arithc" },
+  { name = "Docs", url = "https://hackmd.io/@curryrasul/S1MtS6skJg" },
+]
+
+[[project]]
+name = "zkEVM Community Edition"
+desc = "PSE's original Type 1 zkEVM"
+links = [
+  { name = "GitHub", url = "https://github.com/privacy-scaling-explorations/zkevm-circuits" },
+  { name = "Docs", url = "https://privacy-scaling-explorations.github.io/zkevm-circuits/zkevm_circuits/" },
+]
+
+[[project]]
+name = "zkEmail & Email Wallet"
 desc = "Non-custodial crypto wallet, which is managed through email. Powered with ZK-Email."
 links = [
   { name = "GitHub", url = "https://github.com/zkemail/email-wallet/" },
-  { name = "Docs", url = "http://docs.sendeth.org/" },
-  { name = "App", url = "https://sendeth.org/" },
+  { name = "Docs", url = "https://docs.prove.email/email-wallet/" },
+  { name = "App", url = "https://emailwallet.org/" },
 ]
 
 [[project]]
@@ -24,12 +46,11 @@ links = [
 ]
 
 [[project]]
-name = "VoAn"
-desc = "ANonymous VOting platform on NEAR Protocol."
+name = "RLN"
+desc = "Rate-Limiting Nullifier (or RLN) is a zero-knowledge gadget that enables spam prevention in anonymous environments."
 links = [
-  { name = "GitHub", url = "https://github.com/curryrasul/voan" },
-  { name = "Docs", url = "https://curryrasul.github.io/voan" },
-  { name = "App", url = "https://voan.site" },
+  { name = "GitHub", url = "https://github.com/Rate-Limiting-Nullifier" },
+  { name = "Docs", url = "https://rate-limiting-nullifier.github.io/rln-docs/" },
 ]
 
 [[project]]
@@ -38,4 +59,13 @@ desc = "Persistent, sparse and generic Merkle tree in Rust. Inspired by [monotre
 links = [
   { name = "GitHub", url = "https://github.com/Rate-Limiting-Nullifier/pmtree" },
   { name = "Crates.io", url = "https://crates.io/crates/pmtree" },
+]
+
+[[project]]
+name = "VoAn"
+desc = "ANonymous VOting platform on NEAR Protocol."
+links = [
+  { name = "GitHub", url = "https://github.com/curryrasul/voan" },
+  { name = "Docs", url = "https://curryrasul.github.io/voan" },
+  { name = "App", url = "https://voan.site" },
 ]
