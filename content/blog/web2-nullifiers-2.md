@@ -16,8 +16,6 @@ outdate_alert = false
 outdate_alert_days = 120
 +++
 
-# Web2 Nullifiers using vOPRF pt. II
-
 *Recommended to read [pt. I](https://curryrasul.com/blog/web2-nullifiers/) for understanding. Huge thanks to [Lev Soukhanov](https://x.com/levs57)*
 
 ## Abstract
