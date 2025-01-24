@@ -16,6 +16,8 @@ outdate_alert = false
 outdate_alert_days = 120
 +++
 
+*Thanks for help [Ramil](https://t.me/gaframil) and [Aleksandr](https://t.me/Lezheboker)*
+
 # Gossip - Telegram bot for anon messaging using ZK
 
 ## What's that?
