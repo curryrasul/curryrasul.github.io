@@ -16,6 +16,8 @@ outdate_alert = false
 outdate_alert_days = 120
 +++
 
+# Gossip - Telegram bot for anon messaging using ZK
+
 ## What's that?
 
 Small group chats lack option to post something anonymously something. There are few tries to build such bots - but they are not doing it with zk. In their case - their server knows everything. 
@@ -40,6 +42,8 @@ Additionaly, we can go further and improve the system by adding rate-limiting. T
 * Groups management using [Bandada](https://github.com/bandada-infra/bandada)
 
 This setup is already good, but we can make the system more secure by running the bot in TEE. That can help us to fight centralization/censorship. For example, we can use [Lit Protocol](https://developer.litprotocol.com/what-is-lit) for that.
+Also, to zk prove membership in merkle tree (group), users have to know merkle proof itself, but they don't know. If a user requests merkle path for their merkle proof - we'll be able to deanonymyze the user. 
+For now the solution is TEE as well. But in future, we'll improve this to merkle path retrieval with PIR (Private Info Retrieval).
 
 ## Motivation
 
