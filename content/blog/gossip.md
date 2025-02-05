@@ -22,7 +22,7 @@ outdate_alert_days = 120
 
 ## What's that?
 
-Small group chats lack option to post something anonymously something. There are few tries to build such bots - but they are not doing it with zk. In their case - their server knows everything. 
+Small group chats lack option to post something anonymously. There are few tries to build such bots - but they are not doing it with zk. In their case - their server knows everything. 
 What we can do is to build a zk chat bot, where users will be able to post in a chat from the "name" of the bot. Users will only need to prove they are part of this group chat, without revealing who they are exactly.
 Additionaly, we can go further and improve the system by adding rate-limiting. That's what Gossip is.
 
