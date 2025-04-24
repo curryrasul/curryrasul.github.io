@@ -1,15 +1,9 @@
 [[project]]
-name = "OPRF-ID"
-desc = "vOPRF based Web3 ID system for Web2 identities ported by zkEmail/TLS"
+name = "Web2-ID Nullifiers"
+desc = "vOPRF based secure 'nullifiers' for Web2-IDs"
 links = [
-  { name = "GitHub", url = "https://github.com/curryrasul/oprf-id" },
-]
-
-[[project]]
-name = "gossip"
-desc = "Bot for anon posting in the group chats / Telegram, Discord, etc. powered by zk"
-links = [
-  { name = "GitHub", url = "https://github.com/curryrasul/gossip" },
+  { name = "GitHub", url = "https://github.com/privacy-scaling-explorations/vOPRF-ID" },
+  { name = "Docs", url = "https://privacy-scaling-explorations.github.io/vOPRF-ID/" },
 ]
 
 [[project]]
